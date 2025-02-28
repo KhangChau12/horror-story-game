@@ -327,3 +327,5 @@ const EndGameMessage = styled.div`
     font-size: 1.2rem;
   }
 `;
+
+export default StoryScreen;
